@@ -35,6 +35,7 @@ var Directives = []string{
 	"route53",
 	"federation",
 	"k8s_external",
+	"rio",
 	"kubernetes",
 	"file",
 	"auto",
